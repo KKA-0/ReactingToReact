@@ -1,0 +1,11 @@
+.productImagesDiv {
+    display: flex;
+    justify-content: center;
+    width: 50%;
+    height: 100%;
+    align-items: center;
+  }
+
+  .ProductImage {
+    height: 500px;
+  }
